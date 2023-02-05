@@ -1,7 +1,7 @@
 
 # 🗡️ packPvP
 
-Minecraft PvP resourcepack.
+Minecraft PvP resourcepack for minecraft ```1.8.9```.
 
 
 ## 🪛 Installation
